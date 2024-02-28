@@ -5,7 +5,7 @@
 
 ## 🛠 기술 스택
 - 프로그래밍 언어: [Python, Java, Javascript, Jquery, HTML, CSS]
-- 프레임워크 및 라이브러리: [Tensorflow, Pytorch, Langchain, LAG, Ajax]
+- 프레임워크 및 라이브러리: [Tensorflow, Pytorch, Langchain, RAG, Ajax]
 - 도구 및 기타: [VSCODE, COLAB, Jupyternotebook)
 
 ## 📚 프로젝트
@@ -13,7 +13,7 @@
 - **[객체 인식 AI로봇 청소기 개발]**:(업데이트중)
 - **[주가 예측 AI 모듈 개발]**:(업데이트중)
 - **[키덜트 쇼핑몰 웹페이지 개발]**:(업데이트중)
-- **[LangChain을 이용한 Lag System 챗봇 개발]** :(진행중)
+- **[LangChain을 이용한 Rag System 챗봇 개발]** :(진행중)
 
 ## 📫 연락처
 - 이메일: [okteam13@gmail.com]
