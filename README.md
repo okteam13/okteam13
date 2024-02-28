@@ -12,7 +12,7 @@
 - **[AI 수어 챗봇 개발]** (https://github.com/Leo-Moooon/soochaehwa-medical-sign-language-chatbot)
 - **[객체 인식 AI로봇 청소기 개발]**:(업데이트중)
 - **[주가 예측 AI 모듈 개발]**:(업데이트중)
-- **[쇼핑몰 웹페이지 개발]**:(업데이트중)
+- **[키덜트 쇼핑몰 웹페이지 개발]**:(업데이트중)
 - **[LangChian을 이용한 Lag System 챗봇 개발]** :(업데이트중)
 
 ## 📫 연락처
