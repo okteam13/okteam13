@@ -5,16 +5,14 @@
 
 ## 🛠 기술 스택
 - 프로그래밍 언어: [Python, Java]
-- 프레임워크 및 라이브러리: [Tensorflow, Pytorch, Mediapipe ]
-- 도구 및 기타: [목록]
+- 프레임워크 및 라이브러리: [Tensorflow, Pytorch, Numpy, Pandas, Ajax,]
+- 도구 및 기타: [Jira,Confluence, ]
 
 ## 📚 프로젝트
-- **[AI 수어 챗봇 개발]**: [AI 수어 챗봇 개발] ([[링크]()](https://github.com/Leo-Moooon/soochaehwa-medical-sign-language-chatbot))
+- **[AI 수어 챗봇 개발]**: [AI 수어 챗봇 개발] (https://github.com/Leo-Moooon/soochaehwa-medical-sign-language-chatbot)
 
 ## 📫 연락처
 - 이메일: [okteam13@gmail.com]
-- LinkedIn: [LinkedIn 프로필 링크]
-- GitHub: [@GitHub사용자명](https://github.com/GitHub사용자명)
 
 ## 😄 하고 싶은 말
 [여기에 자신을 표현할 수 있는 몇 마디나 인사말을 추가하세요.]
