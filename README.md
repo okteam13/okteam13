@@ -9,8 +9,7 @@
 - 도구 및 기타: [Jira, Confluence, FIGMA, Slack, Airtable]
 
 ## 📚 프로젝트
-- **[AI 수어 챗봇 개발]**
--   (https://github.com/Leo-Moooon/soochaehwa-medical-sign-language-chatbot)
+- **[AI 수어 챗봇 개발]** (https://github.com/Leo-Moooon/soochaehwa-medical-sign-language-chatbot)
 - **[객체 인식 로봇 청소기 개발]**:(https://drive.google.com/file/d/1mHWfkTJI9CakCuxD89Myed6Z_NlB1QPl/view?usp=sharing))
 - **[주가 예측 인공지능 모듈 개발]**:(업데이트중)
 - **[쇼핑몰 웹페이지 개발]**:(업데이트중)
