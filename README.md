@@ -7,7 +7,7 @@
 
 ## 🛠 기술 스택
 - 프로그래밍 언어: [Python, Java, Javascript, Jquery, HTML, CSS, R]
-- 프레임워크 및 라이브러리: [Tensorflow, Pytorch,Langchain, RAG, Ajax, mybatis, FLASK]
+- 프레임워크 및 라이브러리: [Tensorflow, Pytorch, Langchain, RAG, Ajax, mybatis, FLASK]
 - 도구 및 기타: [VSCODE, COLAB, Jupyternotebook, MS-SQL)
 
 ## 📚 프로젝트
