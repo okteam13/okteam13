@@ -8,7 +8,7 @@
 ## 🛠 기술 스택
 - 프로그래밍 언어: [Python, Java, Javascript, Jquery, HTML, CSS, R]
 - 프레임워크 및 라이브러리: [Tensorflow, Pytorch, Langchain, Ajax, mybatis, Spring, FLASK]
-- 도구 및 기타: [VSCODE, COLAB, Jupyternotebook, MS-SQL)
+- 도구 및 기타: [VSCODE, COLAB, Jupyternotebook]
 
 ## 📚 프로젝트
 - **[AI 수어 챗봇 개발]** ([링크](https://github.com/Leo-Moooon/soochaehwa-medical-sign-language-chatbot))
